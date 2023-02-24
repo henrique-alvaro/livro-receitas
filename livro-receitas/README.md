@@ -2,3 +2,5 @@
 
 Olá! Bem vindo
 
+* Bolo de chocolate
+* Bolo de Morango
